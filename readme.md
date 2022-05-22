@@ -45,11 +45,11 @@ It is created using the __still in development__ version of **Babel JSX Template
 
 ## Future goals
 
-Even running handlebars on the server is not particularly performant.
+~~Even running handlebars on the server is not particularly performant.~~
 
-A future goal would be to compile this straight to PHP (so the logic in the templates is directly handled by the server) and then all we would need to do is a simple token replacement for replacement variables.
+~~A future goal would be to compile this straight to PHP (so the logic in the templates is directly handled by the server) and then all we would need to do is a simple token replacement for replacement variables.~~
 
-
+[This has now been achieved and is available here](https://github.com/rmorse/ssr-preact-php).
 
 
 
